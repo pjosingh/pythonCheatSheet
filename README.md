@@ -8,15 +8,15 @@ Open Notebook files in visual studio. Most of the code is written by GPT. Using 
 ### Increase knowledge 
 
 * Basic knowledge
-** Complete reading available system design books 
-** Complete reading available coding standards books 
+    * Complete reading available system design books 
+    * Complete reading available coding standards books 
 * Advance knowledge - AI
-** Do courses on coursera, and other platforms 
-** Start reading technical papers being published everyday 
+    * Do courses on coursera, and other platforms 
+    * Start reading technical papers being published everyday 
 * Advance knowledge - SQL 
-** Start reading SQL papers being published within the team 
+    * Start reading SQL papers being published within the team 
 * Advance Knowledge - Algorithms, Datastructures, etc
-** Whenever you read something important, make notes here in this repo 
+    * Whenever you read something important, make notes here in this repo 
 
 ### Practice the craft 
 
